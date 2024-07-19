@@ -1,0 +1,29 @@
+# The Essentials of Data Science Knowledge Discovery Using R
+
+Swell... This is just my progress on reading this book by Graham J. Williams consisting of homeworks, problem sets and questions.  The first chapter was mostly theory to be frank but the homework set was alright.  Let's try to do it:
+
+## Data Science
+
+### Exercises
+
+1. What is Data Science?
+
+From [IBM](https://www.ibm.com/topics/data-science):
+
+> Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI) and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization’s data. These insights can be used to guide decision making and strategic planning.
+
+From [AWS](https://aws.amazon.com/what-is/data-science/):
+
+> Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results.
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Data_science):
+
+> Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, scientific visualization, algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy, structured, or unstructured data.
+
+> Data science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).  Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.
+
+> Data science is "a concept to unify statistics, data analysis, informatics, and their related methods" to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.  However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.
+
+From [Datacamp](https://www.datacamp.com/blog/what-is-data-science-the-definitive-guide):
+
+> Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
