@@ -8,6 +8,8 @@ Swell... This is just my progress on reading this book by Graham J. Williams con
 
 1. What is Data Science?
 
+Here are some definitions I gathered:
+
 From [IBM](https://www.ibm.com/topics/data-science):
 
 > Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI) and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization’s data. These insights can be used to guide decision making and strategic planning.
@@ -27,3 +29,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Data_science):
 From [Datacamp](https://www.datacamp.com/blog/what-is-data-science-the-definitive-guide):
 
 > Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. In simpler terms, data science is about obtaining, processing, and analyzing data to gain insights for many purposes.
+
+From [DataScientist](https://datascientest.com/en/data-science-definition):
+
+> Data Science is the extraction of actionable information from raw data. This multidisciplinary field has the primary goal of identifying trends, patterns, connections and correlations in large data sets. Data science includes a wide variety of tools and techniques such as computer programming, predictive analysis, mathematics, statistics or artificial intelligence. Data Science now also includes Machine Learning algorithms. Today, almost all companies claim to practice Data Science in some form or another. However, the methods and approaches used may vary from one organization to another. Therefore, it becomes very complicated to offer a precise definition of Data Science. Especially since new technologies are constantly appearing and continually transforming this field. So, to define Data Science, the best question to ask yourself is “why ?”.
